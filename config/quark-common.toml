@@ -261,21 +261,21 @@
 		"Enable Shift Lock" = true
 
 [tools]
-	Trowel = true
+	Trowel = false
 	"Slime In A Bucket" = true
-	"Seed Pouch" = true
-	Pickarang = true
-	"Pathfinder Maps" = true
-	"Parrot Eggs" = true
-	"Endermosh Music Disc" = true
+	"Seed Pouch" = false
+	Pickarang = false
+	"Pathfinder Maps" = false
+	"Parrot Eggs" = false
+	"Endermosh Music Disc" = false
 	"Color Runes" = true
-	Camera = true
-	"Bundle Recipe" = true
-	"Bottled Cloud" = true
+	Camera = false
+	"Bundle Recipe" = false
+	"Bottled Cloud" = false
 	"Beacon Redirection" = true
-	"Ancient Tomes" = true
-	"Ambient Discs" = true
-	Abacus = true
+	"Ancient Tomes" = false
+	"Ambient Discs" = false
+	Abacus = false
 
 	[tools.trowel]
 		#Amount of blocks placed is this value + 1.
@@ -383,30 +383,30 @@
 	"Villagers Follow Emeralds" = true
 	"Vexes Die With Their Masters" = true
 	"Utility Recipes" = true
-	"Snow Golem Player Heads" = true
+	"Snow Golem Player Heads" = false
 	"Simple Harvest" = true
 	"Sign Editing" = true
-	"Replace Scaffolding" = true
-	"Reacharound Placing" = true
+	"Replace Scaffolding" = false
+	"Reacharound Placing" = false
 	"Poison Potato Usage" = true
 	"Pig Litters" = true
 	"Pat The Dogs" = true
 	"Note Block Mob Sounds" = true
 	"More Banner Layers" = true
-	"Lock Rotation" = true
+	"Lock Rotation" = false
 	"Hoe Harvesting" = true
-	"Grab Chickens" = true
-	"Glass Shard" = true
-	"Enhanced Ladders" = true
-	Emotes = true
-	"Dragon Scales" = true
+	"Grab Chickens" = false
+	"Glass Shard" = false
+	"Enhanced Ladders" = false
+	Emotes = false
+	"Dragon Scales" = false
 	"Double Door Opening" = true
-	"Compasses Work Everywhere" = true
+	"Compasses Work Everywhere" = false
 	"Campfires Boost Elytra" = true
 	"Better Elytra Rocket" = true
 	"Automatic Recipe Unlock" = true
 	"Armed Armor Stands" = true
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 
 	[tweaks.utility_recipes]
 		#Can any wool color be dyed?
@@ -543,17 +543,17 @@
 	"Spiral Spires" = true
 	Permafrost = true
 	"No More Lava Pockets" = true
-	"New Stone Types" = true
+	"New Stone Types" = false
 	"Nether Obsidian Spikes" = true
-	"Monster Box" = true
-	"Glimmering Weald" = true
+	"Monster Box" = false
+	"Glimmering Weald" = false
 	"Fairy Rings" = true
 	Corundum = true
 	"Chorus Vegetation" = true
-	"Blossom Trees" = true
-	"Big Stone Clusters" = true
-	"Big Dungeon" = true
-	"Azalea Wood" = true
+	"Blossom Trees" = false
+	"Big Stone Clusters" = false
+	"Big Dungeon" = false
+	"Azalea Wood" = false
 
 	[world.spiral_spires]
 		Rarity = 200
@@ -1181,13 +1181,13 @@
 		"Ignore Anti Overlap" = false
 
 [mobs]
-	Wraith = true
+	Wraith = false
 	Toretoise = true
-	Stonelings = true
+	Stonelings = false
 	Shiba = true
 	Frogs = true
-	Foxhound = true
-	Forgotten = true
+	Foxhound = false
+	Forgotten = false
 	Crabs = true
 
 	[mobs.wraith]
@@ -1430,14 +1430,14 @@
 [client]
 	"Variant Animal Textures" = true
 	"Uses For Curses" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Soul Candles" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Improved Tooltips" = true
 	"Greener Grass" = true
 	"Chest Searching" = true
 	"Back Button Keybind" = true
-	"Auto Walk Keybind" = true
+	"Auto Walk Keybind" = false
 
 	[client.variant_animal_textures]
 		"Enable Cow" = true
@@ -1550,13 +1550,13 @@
 		"Vertical Shift" = 0
 
 [oddities]
-	"Totem Of Holding" = true
-	"Tiny Potato" = true
-	Pipes = true
-	"Matrix Enchanting" = true
-	Magnets = true
-	Crate = true
-	Backpack = true
+	"Totem Of Holding" = false
+	"Tiny Potato" = false
+	Pipes = false
+	"Matrix Enchanting" = false
+	Magnets = false
+	Crate = false
+	Backpack = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
