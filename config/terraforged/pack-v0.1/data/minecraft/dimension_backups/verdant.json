@@ -1,0 +1,203 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "biome_source": {
+      "biomes": [
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              -1,
+              -0.75
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0095
+          },
+          "biome": "minecraft:flower_forest"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              -0.75,
+              -0.5
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0075
+          },
+          "biome": "minecraft:jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              -0.5,
+              0
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0075
+          },
+          "biome": "minecraft:lush_caves"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              0,
+              0.25
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0
+          },
+          "biome": "terralith:jungle_mountains"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              0.25,
+              0.5
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0
+          },
+          "biome": "terralith:tropical_jungle"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              0.5,
+              0.75
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0
+          },
+          "biome": "minecraft:stony_peaks"
+        },
+        {
+          "parameters": {
+            "weirdness": [
+              0,
+              0
+            ],
+            "continentalness": [
+              0,
+              0
+            ],
+            "erosion": [
+              0,
+              0
+            ],
+            "temperature": [
+              0.75,
+              1
+            ],
+            "humidity": [
+              0,
+              0
+            ],
+            "depth": 0,
+            "offset": 0.0
+          },
+          "biome": "minecraft:bamboo_jungle"
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "seed": -7687468166955360572,
+    "settings": "minecraft:floating_islands",
+    "type": "minecraft:noise"
+  },
+  "forge:use_server_seed": true
+}
